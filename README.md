@@ -1,6 +1,5 @@
 # 💫 About Me:
 # Hi, I'm Rahul N N 👋<br><br>🎓  Aspiring AI & ML Engineer <br>💻 Python | SQL | Machine Learning | Deep Learning<br>🤖 Learning LLMs, RAGs, and AI Agents<br>📊 Interested in Data Science and Generative AI<br>🚀 Building real-world AI projects<br>*"Learning every day, building for tomorrow."*<br>
-
 # 🔗 Connect with Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nnrahuln.github.io/Rahul-portfolio/)
 
@@ -17,7 +16,7 @@
 ![](https://streak-stats.demolab.com/?user=nnrahuln&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nnrahuln&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
----
+***
 [![](https://komarev.com/ghpvc/?username=nnrahuln&icon=0&color=0)](https://visitcount.itsvg.in)
 *****
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
