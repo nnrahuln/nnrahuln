@@ -1,5 +1,30 @@
 # 💫 About Me:
-# Hi, I'm Rahul N N 👋<br><br>🎓  Aspiring AI & ML Engineer <br>💻 Python | SQL | Machine Learning | Deep Learning<br>🤖 Learning LLMs, RAGs, and AI Agents<br>📊 Interested in Data Science and Generative AI<br>🚀 Building real-world AI projects<br>*"Learning every day, building for tomorrow."*<br>
+## Hi, I'm Rahul N N 👋
+
+### 🎓 AI & ML Engineering Student | 🧪 Aspiring QA Automation / SDET
+
+💻 **Python | SQL | DSA**
+🧪 **Playwright | Pytest | BDD | API Testing**
+🤖 **Machine Learning | Deep Learning**
+🔧 **Git | GitHub | GitHub Actions**
+
+### 🚀 Featured Projects
+
+🌿 **PLANTMED** – AI Medicinal Plant Identification
+🛒 **E-Commerce Automation** – Web & API Test Automation
+
+### 📚 Currently Learning
+
+🎭 Playwright Automation | 🔌 API Testing | 🔄 CI/CD | 🧪 Software Testing
+
+### 🤝 Open to Internship Opportunities
+
+**QA Automation • SDET • Software Testing • Python • AI & ML**
+
+📫 [GitHub](https://github.com/nnrahuln) • [LinkedIn](https://www.linkedin.com/in/rahulnn2006/)
+
+> 🚀 *Learning every day, building for tomorrow.*
+
 # 🔗 Connect with Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nnrahuln.github.io/Rahul-portfolio/)
 
