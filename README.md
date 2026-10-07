@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
  Hi, I'm Rahul N N 👋 
 
 ### 🎓 AI & ML Engineering Student | 🧪 Aspiring QA Automation / SDET
