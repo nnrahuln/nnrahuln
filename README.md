@@ -9,8 +9,7 @@
 🔧 **Git | GitHub | GitHub Actions**
 
 ### 🚀 Featured Projects
-###
-
+#####
 🌿 **PLANTMED** – AI Medicinal Plant Identification
 🛒 **E-Commerce Automation** – Web & API Test Automation
 
