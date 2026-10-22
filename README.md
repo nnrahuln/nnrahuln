@@ -15,7 +15,7 @@
 🛒 **E-Commerce Automation** – Web & API Test Automation
 
 ### 📚 Currently Learning
-###
+### ****
 🎭 Playwright Automation | 🔌 API Testing | 🔄 CI/CD | 🧪 Software Testing
 
 ### 🤝 Open to Internship Opportunities
