@@ -1,8 +1,7 @@
 # 💫 About Me :
  Hi, I'm Rahul N N 👋 
-
-### 🎓 AI & ML Engineering Student | 🧪 Aspiring QA Automation / SDET
-###  ###
+      ***
+🎓 AI & ML Engineering Student | 🧪 Aspiring QA Automation / SDET
 
 💻 **Python | SQL | DSA**
 🧪 **Playwright | Pytest | BDD | API Testing**
