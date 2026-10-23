@@ -26,8 +26,10 @@
 
 > 🚀 *Learning every day, building for tomorrow.*   
 > ###  ###  ####  ##### ## ####  #### ## ### ####  
-  # #### #### # #
+  
+  
 🔗 Connect with Me:
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nnrahuln.github.io/Rahul-portfolio/)
 
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1boGIewj3LL07lhZDzfAZNRqEMRJGPKO2/view?usp=drive_link)
