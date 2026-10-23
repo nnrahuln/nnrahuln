@@ -1,6 +1,6 @@
 # 💫 About Me :
  Hi, I'm Rahul N N 👋 
-      ***
+
 🎓 AI & ML Engineering Student | 🧪 Aspiring QA Automation / SDET
 
 💻 **Python | SQL | DSA**
@@ -17,7 +17,7 @@
 ### ****
 🎭 Playwright Automation | 🔌 API Testing | 🔄 CI/CD | 🧪 Software Testing
 
-### 🤝 Open to Internship Opportunities
+  *** 🤝 Open to Internship Opportunities
 
 **QA Automation • SDET • Software Testing • Python • AI & ML**
 
