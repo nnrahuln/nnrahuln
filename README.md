@@ -8,8 +8,8 @@
 🤖 **Machine Learning | Deep Learning**
 🔧 **Git | GitHub | GitHub Actions**
    ****
-### 🚀 Featured Projects
-#####
+🚀 Featured Projects
+
 🌿 **PLANTMED** – AI Medicinal Plant Identification
 🛒 **E-Commerce Automation** – Web & API Test Automation
 
