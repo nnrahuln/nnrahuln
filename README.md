@@ -7,7 +7,7 @@
 🧪 **Playwright | Pytest | BDD | API Testing**
 🤖 **Machine Learning | Deep Learning**
 🔧 **Git | GitHub | GitHub Actions**
-   ****
+   **** ****
 🚀 Featured Projects
 
 🌿 **PLANTMED** – AI Medicinal Plant Identification
